@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\NgoThiBaoLoan\week01_02\bin\Debug\week01_02.exe.config
+C:\Users\Administrator\Desktop\NgoThiBaoLoan\week01_02\bin\Debug\week01_02.exe
+C:\Users\Administrator\Desktop\NgoThiBaoLoan\week01_02\bin\Debug\week01_02.pdb
+C:\Users\Administrator\Desktop\NgoThiBaoLoan\week01_02\obj\Debug\week01_QLSV.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\NgoThiBaoLoan\week01_02\obj\Debug\week01_QLSV.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\NgoThiBaoLoan\week01_02\obj\Debug\week01_02.exe
+C:\Users\Administrator\Desktop\NgoThiBaoLoan\week01_02\obj\Debug\week01_02.pdb

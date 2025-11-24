@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\NgoThiBaoLoan\week01_KeThua\obj\Debug\week01_KeThua.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\NgoThiBaoLoan\week01_KeThua\obj\Debug\week01_KeThua.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\NgoThiBaoLoan\week01_KeThua\bin\Debug\week01_KeThua.exe.config
+C:\Users\Administrator\Desktop\NgoThiBaoLoan\week01_KeThua\bin\Debug\week01_KeThua.exe
+C:\Users\Administrator\Desktop\NgoThiBaoLoan\week01_KeThua\bin\Debug\week01_KeThua.pdb
+C:\Users\Administrator\Desktop\NgoThiBaoLoan\week01_KeThua\obj\Debug\week01_KeThua.exe
+C:\Users\Administrator\Desktop\NgoThiBaoLoan\week01_KeThua\obj\Debug\week01_KeThua.pdb

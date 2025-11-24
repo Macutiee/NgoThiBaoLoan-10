@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\NgoThiBaoLoan\week_01\bin\Debug\week_01.exe.config
+C:\Users\Administrator\Desktop\NgoThiBaoLoan\week_01\bin\Debug\week_01.exe
+C:\Users\Administrator\Desktop\NgoThiBaoLoan\week_01\bin\Debug\week_01.pdb
+C:\Users\Administrator\Desktop\NgoThiBaoLoan\week_01\obj\Debug\week01_DoanSo.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\NgoThiBaoLoan\week_01\obj\Debug\week01_DoanSo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\NgoThiBaoLoan\week_01\obj\Debug\week_01.exe
+C:\Users\Administrator\Desktop\NgoThiBaoLoan\week_01\obj\Debug\week_01.pdb
